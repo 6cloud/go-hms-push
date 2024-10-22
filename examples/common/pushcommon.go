@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/appleboy/go-hms-push/push/config"
-	"github.com/appleboy/go-hms-push/push/core"
+	"github.com/6cloud/go-hms-push/push/config"
+	"github.com/6cloud/go-hms-push/push/core"
 )
 
 const (
