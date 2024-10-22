@@ -21,9 +21,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/appleboy/go-hms-push/examples/common"
-	"github.com/appleboy/go-hms-push/push/constant"
-	"github.com/appleboy/go-hms-push/push/model"
+	"github.com/6cloud/go-hms-push/examples/common"
+	"github.com/6cloud/go-hms-push/push/constant"
+	"github.com/6cloud/go-hms-push/push/model"
 )
 
 func main() {
