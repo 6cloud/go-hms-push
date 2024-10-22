@@ -21,12 +21,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/appleboy/go-hms-push/push/authention"
-	"github.com/appleboy/go-hms-push/push/config"
+	"github.com/6cloud/go-hms-push/push/authention"
+	"github.com/6cloud/go-hms-push/push/config"
 	"reflect"
 
-	"github.com/appleboy/go-hms-push/httpclient"
-	"github.com/appleboy/go-hms-push/push/constant"
+	"github.com/6cloud/go-hms-push/httpclient"
+	"github.com/6cloud/go-hms-push/push/constant"
 )
 
 type HMSClient struct {
